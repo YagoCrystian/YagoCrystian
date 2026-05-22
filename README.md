@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Yago Crystian, tenho 27 anos e sou natural do Espirito Santo. Concluí o ensino médio na Nova Zelandia (Kia Ora!). Atualmente, estou cursando Enegenharia da Computação na Faculdade Multivix Vila Velha. Sou apaixonado por tecnologia e estou sempre em busca de melhorar e aprender mais.
+Me chamo Yago Crystian, tenho 27 anos e sou natural do Espirito Santo. Concluí o ensino médio na Nova Zelandia (Kia Ora!). Atualmente, estou cursando Engenharia da Computação na Faculdade Multivix Vila Velha. Sou apaixonado por tecnologia e estou sempre em busca de melhorar e aprender mais.
 
 <p align="left">
     <a href="https://github.com/YagoCrystian?tab=followers">
